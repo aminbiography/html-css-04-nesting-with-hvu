@@ -1,4 +1,4 @@
-# CSS Nesting Fundamentals   
+# CSS Nesting Fundamentals     
 
 **Original Source:** Harvard University  
 **Learning Platform:** edX  
